@@ -3,8 +3,8 @@
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"xpos"			"c-50"	[$WIN32]
 		"ypos"			"c115"	[$WIN32]
 		"wide"			"100"
@@ -22,8 +22,8 @@
 		"zpos"						"2"
 		"wide"						"20"
 		"tall"						"20"
-		"visible"					"1"		
-		"enabled"					"1"
+		"visible"					"0"		
+		"enabled"					"0"
 		"defaultbgcolor_override"	"0 0 0 130"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"				"999999"
@@ -78,8 +78,8 @@
 		"wide"					"20"
 		"tall"					"20"	
 		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
